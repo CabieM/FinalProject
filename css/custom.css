@@ -1,0 +1,68 @@
+.col1 {
+	background: #5c7080;
+}
+
+.col2 {
+	background: #6BC0FF;
+}
+
+.col3 {
+	background: #E8AA4C;
+}
+
+.col4 {
+	background: #FF384E;
+}
+
+
+
+
+p {
+	font-style: helvetica;
+}
+
+
+#conserve {
+	margin-left: 20px;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+h1 {
+	color: black;
+	text-decoration: none;
+}
+
+h1 small {
+	color: white;
+	text-decoration: none;
+}
+
+
+.global-container {
+	position: fixed;
+	top: 50%;
+	text-align: center;
+}
+
+.panel {
+	text-align: center;
+}
+
+.col-md-6 {
+	background: rgba(174, 214, 241, .5);
+	border: solid black .5px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.container_volunteer{
+	background: rgba(174, 214, 241, .5);
+
+}
+
+
