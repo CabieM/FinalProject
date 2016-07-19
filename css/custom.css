@@ -35,12 +35,26 @@ h1 small {
 
 .panel {
 	text-align: center;
+
 }
 
-.col-md-6 {
+
+
+
+
+.col-md-4 {
 	background: rgba(174, 214, 241, .5);
 	border: solid black .5px;
+	border-radius: 12px;
+	width: 33%;
 }
+
+.map1 {
+	text-align: center;
+	
+}
+
+
 
 .carousel-inner > .item > img {
     margin: 0 auto;
@@ -51,4 +65,18 @@ h1 small {
 
 }
 
+.beach {
+	min-height: 450px;
+}
 
+.temp {
+	font-size: 36pt;
+}
+
+.minHeight {
+	font-size: 36pt;
+}
+
+.maxHeight {
+	font-size: 36pt;
+}
